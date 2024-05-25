@@ -1,11 +1,8 @@
-<h1>JWipe - Ticketing-System</h1>
-
-
+<h1>Ticketing-System</h1>
 
 <h2>Description</h2>
 x
 <br />
-
 
 <h2>Ticketing System Used</h2>
 
@@ -16,7 +13,7 @@ x
 
 <p align="center">
 Launch the web-based SaaS: <br/>
-<img src="(https://imgur.com/a/cIPPX9j)" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
+<img src="https://imgur.com/a/cIPPX9j" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
 <br />
 <br />
 Select the disk:  <br/>
