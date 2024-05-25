@@ -13,7 +13,7 @@ x
 
 <p align="center">
 Launch the web-based SaaS: <br/>
-<img src="https://imgur.com/DPuwh3e" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
+<img src="https://imgur.com/a/CRi0Zuk" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
 <br />
 <br />
 Select the disk:  <br/>
