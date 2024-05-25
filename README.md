@@ -20,7 +20,7 @@ Selecting and Answering Tickets:  <br/>
 <br />
 <br />
 Selecting The Ticket As Pending / In Progress: <br/>
-<img src="https://i.imgur.com/qa1TDOy.png" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
+<img src="https://i.imgur.com/qa1TDOy.png" height="80%" width="50%" alt="Zendesk Ticketing System Walk-through"/>
 <br />
 
 <br />
@@ -30,11 +30,11 @@ More Ticket Examples: <br/>
  
 <br />
 Selecting the Priority of The Ticket:  <br/>
-<img src="https://i.imgur.com/IglEIVi.png" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
+<img src="https://i.imgur.com/IglEIVi.png" height="80%" width="50%" alt="Zendesk Ticketing System Walk-through"/>
 <br />
 <br />
 Selecting the Type of Ticket  <br/>
-<img src="https://i.imgur.com/H7ocExw.png" height="80%" width="80%" alt="Zendesk Ticketing System Walk-through"/>
+<img src="https://i.imgur.com/H7ocExw.png" height="80%" width="50%" alt="Zendesk Ticketing System Walk-through"/>
 <br />
 <br />
 
