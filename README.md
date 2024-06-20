@@ -69,5 +69,5 @@ Selecting the Type of Ticket  <br/>
 <br />
 
 <h2>Lessons Learned</h2>
-During this lab I was able to practice some of the fundamentals of working the Help Desk position. Making use of the SaaS user interface, and navigating my way to the company's knowledge base. I practiced viewing tickets, assigning ticket priority, type, and status. I finished off by resovling the tickets using the company's knowledge base.
+During this lab I was able to practice some of the fundamentals of working the Help Desk position. Making use of the SaaS user interface, and navigating my way to the company's knowledge base. I practiced viewing tickets, assigning ticket priority, type, and status. I finished off by resovling the tickets using the company's knowledge base. This lab helped me gain an understanding of one of the many ticketing systems offered.
 
